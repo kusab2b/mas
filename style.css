@@ -1,0 +1,139 @@
+
+body{
+    background-color:aquamarine;
+}
+
+.content{
+max-width: 1440px;
+margin-left: auto;
+margin-right: auto;
+background-color: white;
+font-family: int;
+}
+
+
+@font-face {
+    font-family: int;
+    src: url(Inter-VariableFont_slnt\,wght.ttf);
+}
+
+.snow{
+    width: 100%;
+    height: 775px;
+    
+    
+}
+.group191{
+width: 418px;
+height: 47px;
+border-radius: 20px;
+background-color:#00000069;
+display: flex;
+color: white;
+font-size: 18px;
+justify-content: center;
+align-items: center;
+column-gap: 40px;
+margin-top: -740px;
+margin-left: 398px;
+position: absolute;
+}
+
+.reed{
+    margin-top: 33px;
+    margin-left: -1158px;
+    position: absolute;
+}
+.doose{
+    margin-left: -250px;
+    margin-top: 67px;
+    position: absolute;
+}
+
+.youtub{
+    margin-top: 340px;
+    margin-left: -650px;
+    position: absolute;
+}
+
+.configur{
+    margin-left: 180px;
+    margin-top: -380px;
+}
+
+.omni{
+    font-size: 15px;
+    margin-top: -30px;
+    position: absolute;
+    
+}
+
+.boarder{
+    font-size: 32px;
+    
+}
+.watch{
+    width: 218px;
+    height: 48px;
+    font-size: 22px;
+    color: white;
+    background-color:#DB0A40 ;
+    border: none;
+    
+}
+
+.first{
+    border: 3px solid #B91313;
+    width: 90.76px;
+    position: absolute;
+    margin-top: 30px;
+}
+.second{
+    border: 3px solid#868383 ;
+    width: 122.75px;
+    margin-top: 30px;
+    position: absolute;
+    
+}
+
+.lorem{
+    font-size: 13px;
+    margin-top: 40px;
+    position: absolute;
+}
+.group4{
+    margin-left: 160px;
+}
+.box1{
+    border: 3px solid #424242;
+    width:122.75px ;
+    
+}
+.ipsum{
+    font-size: 13px;
+    color: #424242;
+    
+}
+.maingroup{
+    display: flex;
+    margin-top: 22px;
+    margin-left: -20px;
+    column-gap: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
